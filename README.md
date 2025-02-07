@@ -61,8 +61,7 @@ Traditional archival **description and metadata creation** rely heavily on **man
 ## **Metadata Standardization & Data Linkage**  
 To ensure **archival consistency**, this project creates **standardized metadata feedback loops**:  
 
-**Metadata Feedback Loops – Terminology, Language**  
-
+**Figure [2]: Metadata Feedback Loops – Terminology, Language**  
 [![Metadata Standardization & Data Linkage](https://github.com/prys0000/adaptive_languages_archives/blob/e79b60a7f1e36f6c48118d408bf7ccb633607478/Controls_Adaptive_001.jpg "Metadata Standardization & Data Linkage")](https://github.com/prys0000/adaptive_languages_archives/blob/e79b60a7f1e36f6c48118d408bf7ccb633607478/Controls_Adaptive_001.jpg "Metadata Standardization & Data Linkage")
 
  **Process Flow:**  
@@ -100,10 +99,7 @@ To ensure **archival consistency**, this project creates **standardized metadata
 - **Metadata Guidelines**: Best practices for integrating standardized American Indian terminology in digital archives.  
 - **Research Papers**: Publications on adaptive learning in archival processing.  
 
-**Want to contribute?**  
-- - Submit a **pull request** with enhancements to the dictionaries or NLP models.  
-- - Participate in discussions on **metadata challenges and Indigenous language archives**.  
-- - Share case studies on **digitizing tribal histories** using AI-powered models.  
+
 
 ---
 
@@ -111,9 +107,9 @@ To ensure **archival consistency**, this project creates **standardized metadata
 This project is part of ongoing **NEH and NHPRC-funded research** dedicated to **American Indian sovereignty, policymaking, and historical documentation**. We acknowledge the contributions of tribal historians, language experts, and archivists working towards **equitable representation of Indigenous knowledge in digital archives**.  
 
 **Relevant Projects & Grants:**  
-- *American Congress Digital Archives Portal – Indigenous Policy Records*  
-- *Historical Collection of Political Campaign Advertisements – Tribal Affairs*  
-- *Congressional Correspondence Handwriting Textract Pilot – AI-powered recognition of tribal legal records*  
+- *[American Congress Digital Archives Portal ](https://congressarchives.org/ "American Congress Digital Archives Portal ")*  
+- *[Historical Collection of Political Campaign Advertisements](https://s-lib024.lib.uiowa.edu/campaignvids/people.html "Historical Collection of Political Campaign Advertisements") *  
+- *[Congressional Correspondence Handwriting Textract Pilot](https://github.com/prys0000/archives-handwriting-text-extract-project "Congressional Correspondence Handwriting Textract Pilot")*
 
 ---
 
