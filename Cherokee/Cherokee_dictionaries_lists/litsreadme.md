@@ -1,4 +1,4 @@
-# **README: Cherokee Language Dictionaries and Controlled Vocabulary Resources**  
+# **Cherokee Language Dictionaries and Controlled Vocabulary Resources**  
 
 ## **Overview**  
 This folder includes **Cherokee dictionaries, word lists, and vocabularies** from Indigenous-led sources. These materials support **metadata standardization**, **language preservation**, and **Cherokee-English translation** in a **closed environment**.  
