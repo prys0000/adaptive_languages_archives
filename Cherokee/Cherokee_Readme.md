@@ -36,17 +36,17 @@ Rather than treating Indigenous terminology in isolation, the model is designed 
 
 #### Contextualization & Controlled AI Learning
 
-The AI model is trained using Named Entity Recognition (NER) and semantic contextualization to relate people, places, and policies appropriately. 
+The closed model uses structural algorithms for entity detection (like Named Entity Recognition) and semantic contextualization to appropriately relate people, places, and policies. 
 
 #### Disambiguation of Terms:
-- "Chief" in tribal governance ≠ "Chief" in fire or police departments
+- "Chief" in tribal governance, ≠ "Chief" in fire or police departments
 - "Indian Affairs" in federal policy ≠ "Indian Affairs" in tribal governance
 - "ᏣᎳᎩ" (Tsalagi) ≠ "Cherokee" (as used in colonial legal records)
 
 
 
-### Human Oversight 
-All metadata processing and AI training are subject to human review by Indigenous archivists, historians, and linguistic experts. The model is not an autonomous decision-maker—***it is a tool for structured assistance***, helping refine and streamline metadata consistency while ensuring Indigenous sovereignty over information representation.
+### Human Oversight
+All metadata processing and AI training involve careful human review by archivists. The model operates as a tool—to help enhance and organize metadata consistency while respecting Indigenous sovereignty in how information is represented.
 
 ### Key Features & Next Steps
 - ***Expansion of Controlled Vocabulary:*** Continued tribal engagement to refine terminology and linguistic relationships.
@@ -64,6 +64,6 @@ Language Department - Cherokee Nation Language Department. Available at: https:/
 
 Libguides: Bureau of Indian Affairs: Terminology and language, Terminology and Language - Bureau of Indian Affairs - LibGuides at Utah State University. Available at: https://libguides.usu.edu/biacollection/terminology 
 
-(2024) Protocols for native american archival materials. Available at: https://www2.nau.edu/libnap-p/
+(2024) Protocols for Native American archival materials. Available at: https://www2.nau.edu/libnap-p/
 
 Pryse, JA. "Adaptive Learning Models for Efficient and Standardized Archival Processes." Manuscript submitted for publication, Journal of Archival Science, 2024. https://advance.sagepub.com/users/847182/articles/1235075-adaptive-learning-models-for-efficient-and-standardized-archival-processes
