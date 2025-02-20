@@ -5,6 +5,8 @@ This repository explores the methodologies and frameworks used in creating **Ame
 
 With advancements in **Natural Language Processing (NLP)** and **machine learning**, the ability to **process large volumes of typewritten and handwritten text** within minutes—rather than days or months—represents a **transformative leap** in digital archival science. By refining **text analysis, entity recognition, and terminology control**, this model accelerates **metadata standardization**, making historical records **more accessible and meaningful**.  
 
+**Click** for the [American Indian Language Working List and Resources](https://github.com/prys0000/adaptive_languages_archives/blob/92ea2d6073dda5bb03668be9ebdbf1bd73c53fe4/Languages_American_Indian.csv "American Indian Language Working List and Resources")
+
 ---
 
 ## **Objectives**  
